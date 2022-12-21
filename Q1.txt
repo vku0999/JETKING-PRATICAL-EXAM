@@ -1,0 +1,13 @@
+ Demonstrate on How to create and setup Metamask account and
+wallet?
+
+1. FIRST GO TO GOOGLE CHROME DOWNLOAD METAMASK 
+2. AFTER DOWNLOADING ADD EXTENSION TO METAMASK 
+3. SET YOUR PASSWORD 
+4. COPY YOUR SECRET PHRASE weird toast ketchup rabbit slogan ketchup maze already hope entire program seed
+5. PASTE IT AND CONTINUE AND SONE 
+6. METAMASK WALLET IS READY TO USE 
+
+
+
+

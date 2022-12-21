@@ -1,0 +1,8 @@
+How to add and switch main network to Goreli test network in
+Metamask?
+
+ANS . OPEN METAMASK 
+ CLICKON NETWORKS 
+SLEECT GOERLI MAINNET 
+ADD NETWORKNAME , CHAIN ID , URL , SYMBOL 
+ADDNETWORK 
